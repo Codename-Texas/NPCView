@@ -1,5 +1,5 @@
 # NPCView
-Simple module for implementing a semi-realistic "algorithm" for detecting players or parts in view of an object or NPC. This factors in maximum distance, field of view, occlusion.
+Simple Roblox Luau module for implementing a semi-realistic "algorithm" for detecting players or parts in view of an object or NPC. This factors in maximum distance, field of view, occlusion.
 
 # Usage
 NPCView.Create static method constructs an object for you to use.
